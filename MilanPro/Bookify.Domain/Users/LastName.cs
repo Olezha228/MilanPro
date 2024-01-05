@@ -1,5 +1,4 @@
 namespace Bookify.Domain.Users;
 
-public class LastName
-{
-}
+
+public record LastName(string Value);

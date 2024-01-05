@@ -1,5 +1,5 @@
+using Bookify.Domain.Abstractions;
+
 namespace Bookify.Domain.Reviews.Events;
 
-public class ReviewCreatedDomainEvent
-{
-}
+public sealed record ReviewCreatedDomainEvent(Guid ReviewId) : IDomainEvent;

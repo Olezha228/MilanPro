@@ -44,11 +44,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/Bookify.Domain/Bookify.Domain.csproj",
+      "projectUniqueName": "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/Bookify.Domain.csproj",
       "projectName": "Bookify.Domain",
-      "projectPath": "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/Bookify.Domain/Bookify.Domain.csproj",
+      "projectPath": "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/Bookify.Domain.csproj",
       "packagesPath": "/Users/svetlanaronzina/.nuget/packages/",
-      "outputPath": "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/Bookify.Domain/obj/",
+      "outputPath": "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/svetlanaronzina/.nuget/NuGet/NuGet.Config"

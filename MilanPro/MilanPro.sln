@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D5FB686C-6B2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{96582335-517C-4E5A-83C1-22CE8BD765EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookify.Domain", "Bookify.Domain\Bookify.Domain.csproj", "{6E65D49F-EB47-442F-88EE-DF2DA056114A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookify.Domain", "src\Bookify.Domain\Bookify.Domain.csproj", "{6E65D49F-EB47-442F-88EE-DF2DA056114A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -25,6 +25,69 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/Bookify.Domain.csproj": {
+                "projectPath": "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/Bookify.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/Bookify.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/Bookify.Domain.csproj",
+        "projectName": "Bookify.Domain",
+        "projectPath": "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/Bookify.Domain.csproj",
+        "packagesPath": "/Users/svetlanaronzina/.nuget/packages/",
+        "outputPath": "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/svetlanaronzina/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,6 +100,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

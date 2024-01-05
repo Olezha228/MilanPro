@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "S3F6PD+4581gNPPRVaquNwOMNyQXQgpCY06l8QFGOWza6Ss5ptsrm7Mf+Fkyd/cMCx/BEq/WO7yehIXzQIpoRQ==",
+  "dgSpecHash": "Q1zcFzchSAbXEhX7zT/CasWzN4xJ6U0KuhkV112HoPi2XdAyOjsPAO+Ge9sgtC3tbyco7CH3AYCYiXRTzN5gVg==",
   "success": true,
   "projectFilePath": "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Application/Bookify.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/svetlanaronzina/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/svetlanaronzina/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/svetlanaronzina/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

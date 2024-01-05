@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/pG2N0E40tR1z5b0aeYgUPz1xn8g48DDUhhTqir+WyzSx6A+DFW+eKLUKJpuJKAQoAS3FJBIGfJ0Wx/kaowrQ==",
+  "success": true,
+  "projectFilePath": "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/Bookify.Domain/Bookify.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/svetlanaronzina/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

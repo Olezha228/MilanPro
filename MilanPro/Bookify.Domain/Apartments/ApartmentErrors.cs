@@ -1,5 +1,5 @@
 namespace Bookify.Domain.Apartments;
 
-public class Money
+public class ApartmentErrors
 {
 }

@@ -11,3 +11,16 @@
 /Users/svetlanaronzina/aspnet/MilanPro/MilanPro/Bookify.Domain/obj/Debug/net8.0/refint/Bookify.Domain.dll
 /Users/svetlanaronzina/aspnet/MilanPro/MilanPro/Bookify.Domain/obj/Debug/net8.0/Bookify.Domain.pdb
 /Users/svetlanaronzina/aspnet/MilanPro/MilanPro/Bookify.Domain/obj/Debug/net8.0/ref/Bookify.Domain.dll
+/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/bin/Debug/net8.0/Bookify.Domain.deps.json
+/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/bin/Debug/net8.0/Bookify.Domain.dll
+/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/bin/Debug/net8.0/Bookify.Domain.pdb
+/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/obj/Debug/net8.0/Bookify.Domain.csproj.AssemblyReference.cache
+/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/obj/Debug/net8.0/Bookify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/obj/Debug/net8.0/Bookify.Domain.AssemblyInfoInputs.cache
+/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/obj/Debug/net8.0/Bookify.Domain.AssemblyInfo.cs
+/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/obj/Debug/net8.0/Bookify.Domain.csproj.CoreCompileInputs.cache
+/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/obj/Debug/net8.0/Bookify.Domain.sourcelink.json
+/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/obj/Debug/net8.0/Bookify.Domain.dll
+/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/obj/Debug/net8.0/refint/Bookify.Domain.dll
+/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/obj/Debug/net8.0/Bookify.Domain.pdb
+/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Domain/obj/Debug/net8.0/ref/Bookify.Domain.dll

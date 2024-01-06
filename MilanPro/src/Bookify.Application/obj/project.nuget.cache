@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7Obc1zOaJp7Ie2vlUzdQfP0Zw9ZJxe8t1m/chCs62ffo/UYqbxP+0Gf6yLwYwgnKTFyRu+7tY9AC+znny+tLMw==",
+  "dgSpecHash": "SZvJAOPugkJj6vuVlMwmgSsgIqPq0QUlYQRraVfuX78D4qqo3+RXMx7IPZ+k/OThxx/OBPTk6t2iA3+Y4ITqbg==",
   "success": true,
   "projectFilePath": "/Users/svetlanaronzina/aspnet/MilanPro/MilanPro/src/Bookify.Application/Bookify.Application.csproj",
   "expectedPackageFiles": [
     "/Users/svetlanaronzina/.nuget/packages/dapper/2.1.28/dapper.2.1.28.nupkg.sha512",
+    "/Users/svetlanaronzina/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/svetlanaronzina/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.0/fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "/Users/svetlanaronzina/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/svetlanaronzina/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/svetlanaronzina/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

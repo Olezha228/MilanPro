@@ -1,5 +1,8 @@
+using Bookify.Application.Abstractions.Clock;
+
 namespace Bookify.Infrastructure.Clock;
 
-public class DateTimeProvider
+public class DateTimeProvider : IDateTimeProvider
 {
+    public DateTime UtcNow => DateTime.Now;
 }
